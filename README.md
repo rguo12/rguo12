@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Ruocheng Guo, a ML Researcher working for ByteDance Research @ London, UK.
-I am working on causal inference, conformal prediction, responsible AI for LLMs and recommendation systems.
+I am working on alignment, conformal prediction, causal ML for LLMs and recommendation systems.
 
 <!--
 **rguo12/rguo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
