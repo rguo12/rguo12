@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am Ruocheng Guo.
-I am working on causal ML, LLM alignment/reasoning, and conformal prediction.
+I am working on LLM Agents and Causal ML.
 
 <!--
 **rguo12/rguo12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
